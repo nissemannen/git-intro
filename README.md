@@ -1,4 +1,6 @@
 # git-intro
-Intro till git och GitHub i clarify.
+Intro till git.
 
-Visar med bilder hur man kommer igång med git och GitHub.
+I git-1.pdf är en allmän intro till git och GitHub for Windows.
+
+I git-2.pdf blir det en lite djupare introduktion till git. vV provar även på Git Shell för att få lite tydligare för oss hur de mest grundläggande kommandona i gti används.
